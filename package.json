@@ -95,7 +95,7 @@
     "apollo-server-core": "^3.9.0",
     "apollo-server-express": "3.9.0",
     "aws-param-store": "github:goSprinto/aws-param-store-sdkv3#99e7886f48f0a10c23832bc2f55c369441eb7990",
-    "axios": "0.25.0",
+    "axios": "1.6.0",
     "axios-cookiejar-support": "^4.0.2",
     "bcryptjs": "1.4.3",
     "bitbucket": "2.6.1",
